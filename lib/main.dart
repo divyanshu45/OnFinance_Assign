@@ -13,7 +13,7 @@ void main() {
     systemNavigationBarColor: Colors.black,
     statusBarColor: Colors.black,
     statusBarBrightness: Brightness.dark,
-    statusBarIconBrightness:Brightness.dark ,
+    statusBarIconBrightness:Brightness.light ,
   ));
   runApp(const MyApp());
 }
