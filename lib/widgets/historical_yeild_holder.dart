@@ -176,7 +176,7 @@ class HistoricalYieldHolder extends StatelessWidget {
               Positioned(
                 top: 40,
                 child: Container(
-                  width: 395,
+                  width:  MediaQuery.of(context).size.width,
                   color: Color(0xFF282831),
                   child: Container(
                     height: 24,
